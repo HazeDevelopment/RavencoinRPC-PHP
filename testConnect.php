@@ -1,7 +1,7 @@
 <?php
 /*
 RavencoinRPC-PHP
-A basic PHP class for making calls to Ravencoin's Network.
+A basic PHP script for testing connection to Ravencoin's Network.
 https://github.com/HazeDevelopment/ravencoinrpc-php/
 
 ====================
