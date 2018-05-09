@@ -1,14 +1,11 @@
 <?php
 /*
-RavencoinRPC-PHP
-A basic PHP script for testing connection to Ravencoin's Network.
-https://github.com/HazeDevelopment/ravencoinrpc-php/
-
 ====================
 RavencoinRPC-PHP Connection Test
 
 A basic example of how to disply node info and confirm that connection 
 has successfully been established to the RPC host on the server.
+https://github.com/HazeDevelopment/ravencoinrpc-php/
 ====================
 */
 //Include RavencoinRPC-PHP class
