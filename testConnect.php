@@ -31,4 +31,3 @@ if ($ravencoin->status == 500) {
 } else {
 	echo "HTTP Error: ".$ravencoin->status;
 }
-
